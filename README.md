@@ -1,2 +1,2 @@
-# animated-modal-2
+# animated-modal
 Created with CodeSandbox
